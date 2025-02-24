@@ -2,7 +2,7 @@
 Repositório com exercícios de banco de Dados do bootcamp Womakers Code
 
 ## Como rodar o código:
-1. Certifique-se de ter o Python e o SQLite instalados no seu sistema.
+1. Certifique-se de ter o Python, SQLite e DBeaver instalados no seu sistema.
 2. Clone ou baixe o repositório.
 3. No terminal, navegue até a pasta onde o script está localizado.
 4. Execute o script com o comando: exercicio.py
