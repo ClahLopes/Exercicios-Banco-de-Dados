@@ -1,7 +1,5 @@
-# Exercicios-Banco-de-Dados
-Repositório com exercícios de banco de Dados do bootcamp Womakers Code
-
 # Banco de Exercícios SQLite
+Repositório com exercícios de banco de Dados do bootcamp Womakers Code
 
 ## Como rodar o código:
 1. Certifique-se de ter o Python e o SQLite instalados no seu sistema.
