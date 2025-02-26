@@ -1,6 +1,6 @@
 import sqlite3
 
-conexao = sqlite3.connect('banco_exercicio')
+conexao = sqlite3.connect('banco_exercicio.db')
 cursor = conexao.cursor()
 
 def loop():
